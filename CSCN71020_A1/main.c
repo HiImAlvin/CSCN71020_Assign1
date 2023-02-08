@@ -24,7 +24,6 @@ void main() {
         return;
     case 2:
         sub();
-        return;
 	}
 
 }
